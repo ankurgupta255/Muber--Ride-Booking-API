@@ -6,7 +6,7 @@ The API consists of a databse of the drivers available in the world and based on
 This API is written in Node.Js, Express.Js, Mongoose.Js and MongoDB
 
 ## Prerequisites: 
-Firstly Clone the repository in your computer and open the command line in the folder.
+Firstly Clone the repository in your computer and open the command line in the folder.<br>
 Then run ```npm install``` to install all the dependencies
 
 ## Utilities Provided by the API: 
