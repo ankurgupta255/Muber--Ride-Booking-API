@@ -37,7 +37,7 @@ module.exports={
 	remove(req,res,next){
 		const driverId=req.params.id;
 		Driver.remove({_id: driverId})
-		.then(driver=>res.send(204).send(driver))
+		.then(driver=>res.status(204).send(driver))
 		.catch(next);
 	}
 };
