@@ -29,5 +29,5 @@ Open ```localhost:3000/api/driver/{driver id}``` with a PUT Request with the Dri
 ### Deleting a Driver: 
 Open ```localhost:3000/api/driver/{driver id}``` with a DELETE Request with the Driver ID enclosed in a JSON Object
 
-### Getting the Driver Ready to Drive for You
+### Getting the Driver Detials closest to You and Available to Drive
 Open ```localhost:3000/api/drivers?lng={longitude}&lat={latitude}``` with a GET Request with the Latitude and Longitude of your location int the Request
