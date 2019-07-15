@@ -13,7 +13,7 @@ Then run ```npm install``` to install all the dependencies
 ### Create a Driver with a Driving Status and Location on the World Map
 ### Edit a Driver Pre-Exisiting in the database
 ### Delete a Driver from the Database
-### Find the Details of the Driver closesr=t to your Location Ready to Drive
+### Find the Details of the Driver closest to your Location Ready to Drive
 
 ## How to Start:
 Run ```npm run start``` in the Project Directory
